@@ -43,3 +43,12 @@ socials) and then tweak individual section components under `src/components/`.
 
 Pushes to `main` are auto-deployed by Vercel. The site is configured to serve
 from the `repairs.stimmie.dev` custom domain.
+
+## 📊 Current State of the Code
+- **Tech Stack:** React, TailwindCSS, Next.js, Node.js/NPM
+- **Repository Size:** 34 tracked files
+- **Latest Update:** `95adb95 chore: add stale issue and PR validators`
+
+
+---
+*☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
