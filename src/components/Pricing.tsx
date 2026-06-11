@@ -1,3 +1,5 @@
+// src/components/Pricing.tsx
+
 import { Container } from "./Container";
 
 type Plan = {

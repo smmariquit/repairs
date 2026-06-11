@@ -1,3 +1,5 @@
+// src/components/Process.tsx
+
 import { Container } from "./Container";
 
 const steps = [

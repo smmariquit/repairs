@@ -1,3 +1,5 @@
+// src/components/Navbar.tsx
+
 import { Container } from "./Container";
 import { Logo } from "./Logo";
 

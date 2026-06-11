@@ -1,3 +1,5 @@
+// src/components/Logo.tsx
+
 import { site } from "@/lib/site";
 
 export function Logo() {

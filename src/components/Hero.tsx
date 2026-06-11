@@ -1,3 +1,5 @@
+// src/components/Hero.tsx
+
 import { Container } from "./Container";
 import { site } from "@/lib/site";
 

@@ -1,3 +1,5 @@
+// src/components/Footer.tsx
+
 import { Container } from "./Container";
 import { Logo } from "./Logo";
 import { site } from "@/lib/site";

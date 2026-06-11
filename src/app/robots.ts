@@ -1,3 +1,5 @@
+// src/app/robots.ts
+
 import type { MetadataRoute } from "next";
 import { site } from "@/lib/site";
 

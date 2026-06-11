@@ -1,3 +1,5 @@
+// src/lib/site.ts
+
 export const site = {
   name: "Stimmie Repairs",
   shortName: "repairs.stimmie.dev",

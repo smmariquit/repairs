@@ -1,3 +1,5 @@
+// src/components/JsonLd.tsx
+
 import { site } from "@/lib/site";
 
 export function JsonLd() {

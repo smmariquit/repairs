@@ -1,3 +1,5 @@
+// src/components/FAQ.tsx
+
 import { Container } from "./Container";
 
 const faqs = [

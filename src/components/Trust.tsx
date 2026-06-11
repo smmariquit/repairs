@@ -1,3 +1,5 @@
+// src/components/Trust.tsx
+
 import { Container } from "./Container";
 
 const points = [
