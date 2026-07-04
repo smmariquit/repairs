@@ -24,9 +24,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ```
 src/
-├── app/                # Next.js app router (layout, page, robots, sitemap)
-├── components/         # UI sections (Hero, Services, Pricing, etc.)
-└── lib/site.ts         # Single source of truth for site copy & contact info
+├── app/ # Next.js app router (layout, page, robots, sitemap)
+├── components/ # UI sections (Hero, Services, Pricing, etc.)
+└── lib/site.ts # Single source of truth for site copy & contact info
 ```
 
 To customize the site, start by editing `src/lib/site.ts` (name, contact info,
