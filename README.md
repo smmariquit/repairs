@@ -34,10 +34,10 @@ socials) and then tweak individual section components under `src/components/`.
 
 ## Scripts
 
-- `npm run dev` — start the dev server
-- `npm run build` — create a production build
-- `npm run start` — run the production build
-- `npm run lint` — lint the codebase
+- `npm run dev`: start the dev server
+- `npm run build`: create a production build
+- `npm run start`: run the production build
+- `npm run lint`: lint the codebase
 
 ## Deployment
 
@@ -48,7 +48,6 @@ from the `repairs.stimmie.dev` custom domain.
 - **Tech Stack:** React, TailwindCSS, Next.js, Node.js/NPM
 - **Repository Size:** 34 tracked files
 - **Latest Update:** `95adb95 chore: add stale issue and PR validators`
-
 
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
